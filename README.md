@@ -15,8 +15,7 @@ Hedef IP adresine yönelik gerçekleştirilen Nmap taraması ile açık portlar 
   * **Port 22 (SSH):** OpenSSH 8.2p1
   * **Port 80 (HTTP):** Apache httpd 2.4.41
 
-![Nmap Taraması](<img width="1700" height="671" alt="1" src="https://github.com/user-attachments/assets/73d72c04-83bd-4656-a31e-bfb945abd7b1" />
-)
+<img width="1700" height="671" alt="1" src="https://github.com/user-attachments/assets/73d72c04-83bd-4656-a31e-bfb945abd7b1" />
 
 ---
 
