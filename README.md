@@ -27,7 +27,8 @@ Hedef IP adresine yönelik gerçekleştirilen Nmap taraması ile açık portlar 
 
 | Web Keşif Görselleri | Açıklama |
 | :--- | :--- |
-| ![Ana Sayfa](images/2.jpg)[cite: 4] | Web arayüzü |
+| ![Ana Sayfa](<img width="1700" height="671" alt="1" src="https://github.com/user-attachments/assets/3d00ef6a-992c-491d-82d6-ce4ef8a523a4" />
+)[cite: 4] | Web arayüzü |
 | ![Kaynak Kodu](images/3.png)[cite: 5] | Gizli kullanıcı adı (`R1ckRul3s`) |
 | ![Gobuster](images/4.png)[cite: 6] | Dizin tarama sonuçları |
 | ![Robots.txt](images/5.png)[cite: 7] | `robots.txt` içeriği |
